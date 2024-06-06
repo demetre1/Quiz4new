@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+
+.conteiner{
+  display: flex;
+
+}
+div{
+  margin: 20px;
+ 
+
+}
+.card{
+  border: solid;
+  border: 2px solid grey;
+}
